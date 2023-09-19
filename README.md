@@ -2,7 +2,7 @@
 
 ## Project Summary
 
-This project was created with the guidance of the FreeCodeCamp Algorithmic Trading course video. The primary objective of this project is to build an Equal-Weight S&P 500 Index Fund.
+This project was created with the guidance of the FreeCodeCamp Algorithmic Trading course video. The primary objective of this project is to build an equal-weight S&P 500 index fund.
 
 ## Credits
 
@@ -19,4 +19,3 @@ To get started with this project, follow the steps outlined in each section abov
 Contributions to this project are welcome. If you have ideas for improvements or new features, please feel free to open an issue or submit a pull request.
 
 Happy coding!
-# Equal_Weight_SP500_Index_Fund

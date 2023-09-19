@@ -1,3 +1,5 @@
+## !!!! This repository is meant for educational purposes only. The data and information presented in this repository is not investment advice. !!!!
+
 # Equal-Weight S&P 500 Index Fund
 
 ## Project Summary
